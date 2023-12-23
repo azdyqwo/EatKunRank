@@ -37,7 +37,7 @@ if ((!empty($name)) && (strlen($name) <= 30) && (strlen($message) <= 150) && (is
     else{
       $onlineip = $HTTP_SERVER_VARS['REMOTE_ADDR'];
     }
-    $url = file_get_contents("http://ip.360.cn/IPQuery/ipquery?ip=".$onlineip."&accessKey=alibaba-inc");
+    $url = file_get_contents("http://ip.taobao.com/outGetIpInfo?ip=".$onlineip."&accessKey=alibaba-inc");
 	$ipdata = json_decode($url,true);
 	$area=$ipdata['data']['country']?$ipdata['data']['country']:'Unknown';
 
