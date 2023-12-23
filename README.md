@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/azdyqwo/EatKunRank/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKun"></a>
+  <a href="https://eatkun.ikunmc.com"><img src="https://eatkun.ikunmc.com/static/image/ClickBefore.png" width="100" height="100" alt="EatKun"></a>
 </p>
 <div align="center">
 
