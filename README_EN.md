@@ -1,24 +1,25 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://eatkun.ikunmc.com"><img src="https://imghost.azdyqwo.com/file/b9214cea2f36abda4686a.jpg" width="100" height="100" alt="EatKun"></a>
 </p>
 
 <div align="center">
 
-# EatKano
+# EatKun
 
-_🦌 Web Game 🥛_
+_🐔 Web Game 🏀_
 
 </div>
 
 
 ## Introduction
-A web game: EatKano
+A web game: EatKun
 
-[Kano's Twitter](https://twitter.com/kano_2525)
+[Original author’s X account](https://x.com/kano_2525)
 |
-[Online Version](https://xingye.me/game/eatkano/index.php)
+[Modifier’s X account](https://x.com/Win11OvO)
 |
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+[Online Version](https://eatkun.ikunmc.com)
+
 
 ## Features
 
@@ -32,7 +33,7 @@ You can delete all the sql/php files if you don't need them.
 
 ## Usage
 
-Note: if you just want to play it, go to [online version](https://xingye.me/game/eatkano/index.php). Here is how to create your own version.
+Note: if you just want to play it, go to [online version](https://eatkun.ikunmc.com. Here is how to create your own version.
 
 ### Github Pages
 
@@ -46,7 +47,7 @@ Follow these steps to change the text displayed to what you want.
 
    ```json
    {
-     "game-title": "Eat Kano",
+     "game-title": "Eat Kun",
      "game-intro1": "Start from the bottom",
      "game-intro2": "Can you tap 150 times?",
      "text-level-1": "Try again?",
