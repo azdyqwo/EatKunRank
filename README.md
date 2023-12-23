@@ -16,9 +16,9 @@ _🐔 网页小游戏 🏀_
 
 [English](README_EN.md)
 |
-[原作者b站](https://space.bilibili.com/316381099)
+[Kano b站账号](https://space.bilibili.com/316381099)
 |
-[修改者b站](https://space.bilibili.com/364665347)
+[我的b站账号](https://space.bilibili.com/364665347)
 |
 [线上版本](https://eatkun.ikunmc.com)
 
