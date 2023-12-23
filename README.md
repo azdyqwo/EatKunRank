@@ -14,7 +14,7 @@ _🐔 网页小游戏 🏀_
 
 小游戏：鸡你太美
 
-[English](/README.md)
+[English](/README_EN.md)
 |
 [原作者b站](https://space.bilibili.com/316381099)
 |
