@@ -1,32 +1,31 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/azdyqwo/EatKunRank/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKun"></a>
 </p>
 <div align="center">
 
-# EatKano
+# EatKun
 
-_🦌 网页小游戏 🥛_
+_🐔 网页小游戏 🏀_
 
 </div>
 
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：鸡你太美
 
-[English](README_EN.md)
+
+[原作者b站](https://space.bilibili.com/316381099)
 |
-[鹿乃b站](https://space.bilibili.com/316381099)
+[修改者b站](https://space.bilibili.com/364665347)
 |
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+[线上版本](https://eatkun.ikunmc.com)
 
 ## 可选功能
 
 简易排行榜(日/周/月) 不推荐使用
 
-不需要排行榜把php/sql文件都删掉即可
+不需要排行榜把php/sql文件都删除即可
 
 ## 版本需求
 + MySQL 5+
