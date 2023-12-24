@@ -14,10 +14,6 @@ _🐔 Web Game 🏀_
 ## Introduction
 A web game: EatKun
 
-[中文](README.md)
-|
-[Kano’s X account](https://x.com/kano_2525)
-|
 [My X account](https://x.com/Win11OvO)
 |
 [Online Version](https://eatkun.ikunmc.com)

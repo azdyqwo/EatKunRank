@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://eatkun.ikunmc.com"><img src="https://imghost.azdyqwo.com/file/b9214cea2f36abda4686a.jpg" width="100" height="100" alt="EatKun"></a>
+  <a href="https://eatkun.ikunmc.com"><img src="https://eatkun.ikunmc.com/static/image/ClickBefore.png" width="100" height="100" alt="EatKun"></a>
 </p>
 <div align="center">
 
@@ -14,10 +14,7 @@ _🐔 网页小游戏 🏀_
 
 小游戏：鸡你太美
 
-[English](README_EN.md)
-|
-[Kano b站账号](https://space.bilibili.com/316381099)
-|
+
 [我的b站账号](https://space.bilibili.com/364665347)
 |
 [线上版本](https://eatkun.ikunmc.com)
