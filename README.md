@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://eatkun.ikunmc.com"><img src="https://eatkun.ikunmc.com/static/image/ClickBefore.png" width="100" height="100" alt="EatKun"></a>
+    <a href="https://eatkun.ikunmc.com"><img src="https://imghost.azdyqwo.com/file/b9214cea2f36abda4686a.jpg" width="100" height="100" alt="EatKun"></a>
 </p>
 <div align="center">
 
